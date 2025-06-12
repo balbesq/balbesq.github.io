@@ -392,6 +392,10 @@ nav {
     justify-content: center;
   }
 
+  .hero-content {
+    margin-top: 100px;
+  }
+
   header nav{
 
     display: none;
